@@ -1,0 +1,912 @@
+﻿Main_Category,Sub_Category,Service_Name,Home_Service_Available,Shop_Visit_Available,Pickup_Available,Delivery_Available,Online_Service_Available / Remote,Appointment_Required,Emergency_Service,Is_Active
+Agriculture & Farming,Equipment Rental,Tractor rental,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Equipment Rental,Rotavator rental,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Equipment Rental,Agricultural machinery rental,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Equipment Rental,Harvesting machine rental,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Farm Services,Ploughing service,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Farm Services,Farm land preparation,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Farm Inputs,Seed supplier,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Farm Inputs,Fertilizer supplier,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Farm Inputs,Pesticide supplier,Yes,No,Yes,No,No,No,No,Yes
+Agriculture & Farming,Farm Inputs,Compost/manure supply,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Crop Services,Crop spraying service,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Harvesting Services,Paddy harvesting service,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Harvesting Services,Sugarcane cutting service,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Harvesting Services,Coconut harvesting,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Harvesting Services,Coconut climbing service,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Farm Labour,Farm labour service,Yes,No,Yes,No,No,No,No,Yes
+Agriculture & Farming,Irrigation Services,Irrigation/pump repair,Yes,Yes,No,No,No,No,Yes,Yes
+Agriculture & Farming,Water & Irrigation,Borewell drilling,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Water & Irrigation,Drip irrigation installation,Yes,No,No,No,No,No,No,Yes
+Agriculture & Farming,Water & Irrigation,Sprinkler installation,Yes,No,No,No,No,No,No,Yes
+Agriculture & Farming,Farming Consultancy,Organic farming services,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Testing & Consultancy,Soil testing,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Testing & Consultancy,Agricultural consultant,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Transportation,Crop transportation,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Post-Harvest Services,Grain cleaning,Yes,No,No,No,No,No,No,Yes
+Agriculture & Farming,Post-Harvest Services,Grain storage,No,Yes,No,No,No,No,No,Yes
+Agriculture & Farming,Milling Services,Rice milling,No,Yes,Yes,No,No,No,No,Yes
+Agriculture & Farming,Land & Tree Services,Tree cutting/pruning,Yes,No,No,No,No,No,No,Yes
+Agriculture & Farming,Farm Infrastructure,Farm fencing,Yes,No,Yes,No,No,No,No,Yes
+Agriculture & Farming,Plants & Nursery,Nursery/plant supply,No,Yes,No,No,No,No,No,Yes
+Livestock & Animal Services,Veterinary Services,Veterinary doctor,No,No,No,No,No,Yes,Yes,Yes
+Livestock & Animal Services,Veterinary Services,Cattle treatment,No,Yes,No,No,No,Yes,No,Yes
+Livestock & Animal Services,Veterinary Services,Cattle vaccination,No,Yes,No,No,No,Yes,No,Yes
+Livestock & Animal Services,Animal Feed,Cattle feed supplier,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Animal Feed,Chicken feed supplier,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Dairy Services,Dairy milk collection,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Breeding Services,Cow/buffalo breeding services,No,Yes,No,No,No,No,No,Yes
+Livestock & Animal Services,Poultry Services,Poultry farm,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Poultry Services,Poultry equipment supply,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Livestock Farming,Goat farming services,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Livestock Farming,Sheep farming services,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Fish Farming,Fish farming,No,Yes,Yes,No,No,No,No,Yes
+Livestock & Animal Services,Aquatic Services,Aquarium/fish supply,No,Yes,No,No,No,No,No,Yes
+Livestock & Animal Services,Pet Care,Pet grooming,Yes,No,No,No,No,No,No,Yes
+Livestock & Animal Services,Pet Care,Pet boarding,No,No,No,No,No,No,No,Yes
+Livestock & Animal Services,Pet Care,Dog walking,Yes,No,No,No,No,No,No,Yes
+Livestock & Animal Services,Animal Transport,Animal transportation,No,Yes,No,No,No,No,No,Yes
+Livestock & Animal Services,Animal Infrastructure,Animal shed construction,No,Yes,No,No,No,No,No,Yes
+Home & Property Services,Cleaning Services,House cleaning,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Cleaning Services,Deep cleaning,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Cleaning Services,Bathroom cleaning,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Cleaning Services,Water tank cleaning,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Cleaning Services,Septic tank cleaning,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Painting & Finishing,House painting,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Masonry & Construction,Wall plastering,No,Yes,No,No,No,No,No,Yes
+Home & Property Services,Masonry & Construction,Mason service,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Carpentry,Carpenter,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Electrical Services,Electrician,Yes,No,No,No,No,No,Yes,Yes
+Home & Property Services,Electrical Services,Fan repair,Yes,No,No,No,No,No,Yes,Yes
+Home & Property Services,Plumbing,Plumber,Yes,No,No,No,No,No,Yes,Yes
+Home & Property Services,Metal Work,Welder,Yes,No,No,No,No,Yes,No,Yes
+Home & Property Services,Flooring,Tile worker,No,Yes,No,No,No,No,No,Yes
+Home & Property Services,Roofing,Roofing service,No,No,No,No,No,No,No,Yes
+Home & Property Services,Interior Services,False ceiling,No,No,No,No,No,No,No,Yes
+Home & Property Services,Metal & Aluminium Work,Aluminium work,No,No,No,No,No,No,No,Yes
+Home & Property Services,Glass Work,Glass work,No,No,No,No,No,No,No,Yes
+Home & Property Services,Doors & Windows,Door/window repair,Yes,Yes,No,No,No,No,Yes,Yes
+Home & Property Services,Security & Surveillance,CCTV installation,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Solar & Energy,Solar panel installation,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Power Backup,Inverter installation/repair,Yes,Yes,No,No,No,No,Yes,Yes
+Home & Property Services,Water Treatment,Water purifier service,No,Yes,No,No,No,No,No,Yes
+Home & Property Services,Pest Control,Pest control,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Pest Control,Termite control,Yes,No,No,No,No,No,No,Yes
+Home & Property Services,Appliance Repair,Home appliance repair,Yes,Yes,No,No,No,No,Yes,Yes
+Home & Property Services,Appliance Repair,Washing machine repair,Yes,Yes,No,No,No,No,Yes,Yes
+Home & Property Services,Appliance Repair,Refrigerator repair,Yes,Yes,No,No,No,No,Yes,Yes
+Home & Property Services,Appliance Repair,AC repair,Yes,No,No,No,No,No,Yes,Yes
+Vehicle & Transportation,Passenger Transport,Auto-rickshaw service,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Passenger Transport,Taxi service,No,No,No,No,No,No,No,Yes
+Vehicle & Transportation,Passenger Transport,School van,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Delivery Transport,Local delivery vehicle,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Goods Transport,Goods transportation,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Goods Transport,Tractor transport,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Vehicle Rental,Mini-truck rental,No,No,Yes,No,No,No,No,Yes
+Vehicle & Transportation,Vehicle Repair,Bike repair,Yes,Yes,No,No,No,No,Yes,Yes
+Vehicle & Transportation,Vehicle Repair,Car repair,Yes,Yes,No,No,No,No,Yes,Yes
+Vehicle & Transportation,Vehicle Repair,Tractor repair,Yes,Yes,No,No,No,No,Yes,Yes
+Vehicle & Transportation,Tyre & Wheel Services,Tyre repair,Yes,Yes,No,No,No,No,Yes,Yes
+Vehicle & Transportation,Tyre & Wheel Services,Puncture shop,No,Yes,Yes,No,No,No,No,Yes
+Vehicle & Transportation,Battery Services,Battery service,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Vehicle Care,Vehicle washing,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Roadside Assistance,Vehicle towing,Yes,No,No,No,No,No,Yes,Yes
+Vehicle & Transportation,Driving & Training,Driving school,No,Yes,No,No,No,No,No,Yes
+Vehicle & Transportation,Driver Services,Driver-for-hire service,Yes,No,No,No,No,No,No,Yes
+Shops & Daily Needs,Grocery & General Stores,Grocery shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Grocery & General Stores,General store,No,Yes,No,Yes,No,No,No,Yes
+Shops & Daily Needs,Fresh Produce,Vegetable shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Fresh Produce,Fruit shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Meat & Seafood,Meat shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Meat & Seafood,Fish shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Bakery & Snacks,Bakery,No,Yes,No,Yes,No,No,No,Yes
+Shops & Daily Needs,Food & Beverage,Tea shop,No,Yes,Yes,No,No,No,No,Yes
+Shops & Daily Needs,Food & Beverage,Tiffin centre,No,Yes,No,Yes,No,No,No,Yes
+Shops & Daily Needs,Food & Beverage,Restaurant,No,Yes,No,No,No,No,No,Yes
+Shops & Daily Needs,Dairy Products,Milk shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Water Supply,Water-can shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Stationery,Stationery shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Hardware,Hardware shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Electrical Supplies,Electrical shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Agricultural Supplies,Agricultural shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Healthcare,Medical shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Clothing,Clothing shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Footwear,Footwear shop,No,Yes,Yes,Yes,No,No,No,Yes
+Shops & Daily Needs,Mobile & Accessories,Mobile shop,No,Yes,Yes,Yes,No,No,No,Yes
+Digital & Professional Services,Internet & Digital Centre,Internet centre,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Printing & Documentation,Printing,No,Yes,No,No,Yes,No,No,Yes
+Digital & Professional Services,Printing & Documentation,Photocopying,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Printing & Documentation,Scanning,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Printing & Documentation,Photo printing,No,Yes,No,No,Yes,No,No,Yes
+Digital & Professional Services,Printing & Documentation,Lamination,No,Yes,No,No,No,No,No,Yes
+Digital & Professional Services,Government & Online Services,Online application assistance,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Government & Online Services,Government-service assistance,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Financial & Utility Services,Bill payment service,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Booking Services,Ticket booking,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Documentation Services,Passport/application assistance,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Documentation Services,PAN-related assistance,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Documentation Services,Aadhaar-related assistance,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Business & Career Services,Resume preparation,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Typing & Data Services,Typing service,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Computer Services,Computer repair,Yes,Yes,No,No,Yes,No,Yes,Yes
+Digital & Professional Services,Mobile Services,Mobile repair,Yes,Yes,No,No,Yes,No,Yes,Yes
+Digital & Professional Services,Mobile Services,Mobile recharge,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Online Assistance,Online shopping assistance,No,No,Yes,No,Yes,No,No,Yes
+Digital & Professional Services,Digital Marketing,Digital marketing,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Digital Marketing,Social media management,No,No,No,No,Yes,No,No,Yes
+Digital & Professional Services,Web Services,Website development,No,No,No,No,Yes,No,No,Yes
+Personal Services,Hair & Grooming,Barber,No,Yes,No,No,No,No,No,Yes
+Personal Services,Beauty & Wellness,Beauty parlour,No,Yes,No,No,No,Yes,No,Yes
+Personal Services,Beauty & Wellness,Mehendi artist,No,Yes,No,No,No,Yes,No,Yes
+Personal Services,Beauty & Wellness,Makeup artist,No,Yes,No,No,No,Yes,No,Yes
+Personal Services,Beauty & Wellness,Bridal makeup,No,No,No,No,No,Yes,No,Yes
+Personal Services,Tailoring & Fashion,Tailor,No,Yes,No,No,No,Yes,No,Yes
+Personal Services,Tailoring & Fashion,Embroidery,No,Yes,No,No,No,No,No,Yes
+Personal Services,Tailoring & Fashion,Clothes alteration,No,Yes,No,No,No,No,No,Yes
+Personal Services,Laundry Services,Laundry,No,Yes,No,No,No,No,No,Yes
+Personal Services,Laundry Services,Ironing,No,Yes,No,No,No,No,No,Yes
+Personal Services,Repair Services,Shoe repair,Yes,Yes,No,No,No,No,Yes,Yes
+Personal Services,Repair Services,Watch repair,Yes,Yes,No,No,No,No,Yes,Yes
+Personal Services,Repair Services,Key duplication,No,Yes,No,No,No,No,No,Yes
+Personal Services,Photography,Photography,No,Yes,No,No,No,Yes,No,Yes
+Food & Home-Based Services,Home Food,Home-made food,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Home Food,Home-made snacks,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Home Food,Pickle making,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Home Food,Papad making,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Home Food,Spice powder making,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Catering,Catering,No,No,No,No,No,No,No,Yes
+Food & Home-Based Services,Catering,Tea/coffee catering,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Catering,Marriage food catering,No,Yes,No,No,No,Yes,No,Yes
+Food & Home-Based Services,Baking,Cake making,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Baking,Bakery home business,No,Yes,No,Yes,No,No,No,Yes
+Food & Home-Based Services,Sweets & Desserts,Sweets making,No,Yes,No,No,No,No,No,Yes
+Food & Home-Based Services,Food Delivery,Tiffin delivery,No,Yes,No,Yes,No,No,No,Yes
+Food & Home-Based Services,Food Delivery,Lunch delivery,No,Yes,No,Yes,No,No,No,Yes
+Food & Home-Based Services,Milling Services,Flour milling,No,Yes,Yes,No,No,No,No,Yes
+Family & Education,Tutoring,Home tuition,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Tutoring,School tuition,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Language Training,Spoken English classes,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Computer Education,Computer classes,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Arts & Music,Music classes,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Arts & Music,Dance classes,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Arts & Music,Drawing classes,No,No,No,No,No,Yes,No,Yes
+Family & Education,Health & Wellness,Yoga classes,No,No,No,No,No,Yes,No,Yes
+Family & Education,Childcare,Daycare,No,No,No,No,No,Yes,No,Yes
+Family & Education,Childcare,Babysitting,No,No,No,No,No,Yes,No,Yes
+Family & Education,Elder Care,Elder-care service,No,Yes,No,No,No,Yes,No,Yes
+Family & Education,Healthcare at Home,Home nursing,Yes,No,No,No,No,Yes,No,Yes
+Family & Education,Healthcare at Home,Physiotherapy,Yes,No,No,No,No,Yes,No,Yes
+Family & Education,Healthcare at Home,Home medicine delivery,No,Yes,No,No,No,No,No,Yes
+Events & Community,Event Decoration,Marriage decoration,No,Yes,No,No,No,Yes,No,Yes
+Events & Community,Event Decoration,Birthday decoration,No,Yes,No,No,No,Yes,No,Yes
+Events & Community,Event Decoration,Stage decoration,No,No,No,No,No,No,No,Yes
+Events & Community,Event Decoration,Flower decoration,No,No,No,No,No,No,No,Yes
+Events & Community,Catering,Event catering,No,Yes,No,No,No,Yes,No,Yes
+Events & Community,Photography & Video,Photography,No,Yes,No,No,No,Yes,No,Yes
+Events & Community,Photography & Video,Videography,No,No,No,No,No,No,No,Yes
+Events & Community,Sound & Entertainment,DJ/sound system,No,Yes,No,No,No,No,No,Yes
+Events & Community,Event Rental,Tent rental,No,No,Yes,No,No,No,No,Yes
+Events & Community,Event Rental,Chair/table rental,No,Yes,Yes,No,No,No,No,Yes
+Events & Community,Printing,Wedding invitation printing,No,No,No,No,Yes,No,No,Yes
+Events & Community,Religious Services,Priest/religious ceremony services,No,Yes,No,No,No,Yes,No,Yes
+Events & Community,Event Transport,Event transportation,No,Yes,No,No,No,Yes,No,Yes
+Rental Services,Tools & Equipment Rental,Tool rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Agricultural Equipment Rental,Tractor rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Agricultural Equipment Rental,Agricultural-equipment rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Power Equipment Rental,Generator rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Event Equipment Rental,Sound-system rental,No,No,Yes,No,No,No,No,Yes
+Rental Services,Event Equipment Rental,Tent rental,No,No,Yes,No,No,No,No,Yes
+Rental Services,Event Equipment Rental,Chair/table rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Event Equipment Rental,Party-equipment rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Water Equipment Rental,Water-tank rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Construction Equipment Rental,Construction-equipment rental,No,Yes,Yes,No,No,No,No,Yes
+Rental Services,Vehicle Rental,Vehicle rental,No,Yes,Yes,No,No,No,No,Yes
+Environment & Local Services,Waste Management,Garbage collection,No,Yes,No,No,No,No,No,Yes
+Environment & Local Services,Waste Management,Waste disposal,No,Yes,No,No,No,No,No,Yes
+Environment & Local Services,Waste Management,Recycling collection,No,Yes,No,No,No,No,No,Yes
+Environment & Local Services,Tree & Plantation Services,Tree planting,No,Yes,No,No,No,No,No,Yes
+Environment & Local Services,Gardening,Gardening,Yes,No,No,No,No,No,No,Yes
+Environment & Local Services,Gardening,Garden maintenance,No,Yes,No,No,No,No,No,Yes
+Environment & Local Services,Cleaning Services,Roadside cleaning,Yes,No,No,No,No,No,No,Yes
+Environment & Local Services,Cleaning Services,Drain cleaning,Yes,No,No,No,No,No,No,Yes
+Environment & Local Services,Water Conservation,Water conservation services,No,Yes,No,No,No,No,No,Yes
+Environment & Local Services,Water Conservation,Rainwater harvesting installation,Yes,No,No,No,No,No,No,Yes
+Environment & Local Services,Solar & Renewable Energy,Solar services,No,Yes,No,No,No,No,No,Yes
+Business & Employment Services,Labour Services,Local labour provider,Yes,No,No,No,No,No,No,Yes
+Business & Employment Services,Labour Services,Construction labour,Yes,No,No,No,No,No,No,Yes
+Business & Employment Services,Labour Services,Farm labour,Yes,No,Yes,No,No,No,No,Yes
+Business & Employment Services,Security Services,Security guard,No,No,No,No,No,No,No,Yes
+Business & Employment Services,Housekeeping Services,Housekeeping,No,Yes,No,No,No,No,No,Yes
+Business & Employment Services,Delivery Services,Delivery worker,No,Yes,No,No,No,No,No,Yes
+Business & Employment Services,Driver Services,Driver hiring,Yes,No,No,No,No,No,No,Yes
+Business & Employment Services,Temporary Staffing,Temporary workers,No,Yes,No,No,No,No,No,Yes
+Business & Employment Services,Accounting Services,Accounting/bookkeeping,No,No,No,No,Yes,No,No,Yes
+Business & Employment Services,Business Consulting,Small-business consulting,No,No,No,No,Yes,No,No,Yes
+Business & Employment Services,Tax & Compliance,GST/accounting assistance,No,No,No,No,Yes,No,No,Yes
+Business & Employment Services,Insurance Services,Insurance assistance,No,No,No,No,Yes,No,No,Yes
+Home Maintenance,Plumbing,Tap Repair,Yes,No,No,No,No,No,Yes,Yes
+Home Maintenance,Plumbing,Pipe Repair,Yes,No,No,No,No,No,Yes,Yes
+Cleaning,Water Tank,Water Tank Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Bathroom,Bathroom Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Kitchen,Kitchen Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,House,Full House Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Furniture,Sofa Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Furniture,Carpet Cleaning,Yes,No,Yes,Yes,No,Yes,No,Yes
+Home Care,Pest Control,Pest Control,Yes,No,No,No,No,Yes,No,Yes
+Home Care,Pest Control,Termite Control,Yes,No,No,No,No,Yes,No,Yes
+Home Maintenance,Painting,House Painting,Yes,No,No,No,No,Yes,No,Yes
+Home Maintenance,Waterproofing,Wall Waterproofing,Yes,No,No,No,No,Yes,No,Yes
+Home Maintenance,Carpentry,Carpenter Service,Yes,No,No,No,No,Yes,No,Yes
+Home Maintenance,Carpentry,Door Repair,Yes,No,No,No,No,No,Yes,Yes
+Home Maintenance,Carpentry,Furniture Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Home Maintenance,Electrical,Electrician Service,Yes,No,No,No,No,No,Yes,Yes
+Home Maintenance,Electrical,Switch Repair,Yes,No,No,No,No,No,Yes,Yes
+Home Maintenance,Electrical,Fan Installation,Yes,No,No,No,No,Yes,No,Yes
+Security,CCTV,CCTV Installation,Yes,No,No,No,No,Yes,No,Yes
+Security,CCTV,CCTV Repair,Yes,No,No,No,No,No,Yes,Yes
+Security,Locksmith,Door Lock Repair,Yes,No,No,No,No,No,Yes,Yes
+Security,Smart Home,Smart Lock Installation,Yes,No,No,No,No,Yes,No,Yes
+Technology,Networking,Wi-Fi Setup,Yes,No,No,No,No,Yes,No,Yes
+Technology,Networking,Router Installation,Yes,No,No,No,No,Yes,No,Yes
+Appliance,AC,AC Repair,Yes,No,No,No,No,No,Yes,Yes
+Appliance,AC,AC Installation,Yes,No,No,No,No,Yes,No,Yes
+Appliance,AC,AC Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Appliance,Refrigerator,Refrigerator Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Appliance,Washing Machine,Washing Machine Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Television,TV Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Mobile,Mobile Repair,No,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Mobile,Mobile Screen Replacement,No,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Computer,Laptop Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Computer,Computer Service,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Printer,Printer Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Electronics,Power Backup,Inverter Service,Yes,No,No,No,No,No,Yes,Yes
+Energy,Solar,Solar Panel Installation,Yes,No,No,No,No,Yes,No,Yes
+Appliance,Geyser,Geyser Repair,Yes,No,No,No,No,No,Yes,Yes
+Appliance,Kitchen Appliance,Mixer Grinder Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Appliance,Water Purifier,Water Purifier Service,Yes,No,No,No,No,Yes,No,Yes
+Outdoor,Gardening,Gardening,Yes,No,No,No,No,Yes,No,Yes
+Outdoor,Gardening,Lawn Maintenance,Yes,No,No,No,No,Yes,No,Yes
+Outdoor,Gardening,Tree Trimming,Yes,No,No,No,No,Yes,No,Yes
+Outdoor,Gardening,Terrace Garden Setup,Yes,No,No,No,No,Yes,No,Yes
+Outdoor,Gardening,Plant Care,Yes,No,No,No,No,Yes,No,Yes
+Moving,Packers & Movers,House Shifting,Yes,No,Yes,Yes,No,Yes,No,Yes
+Moving,Packing,Packing Service,Yes,No,No,No,No,Yes,No,Yes
+Moving,Furniture,Furniture Assembly,Yes,No,No,No,No,Yes,No,Yes
+Moving,Labour,Loading & Unloading,Yes,No,No,No,No,Yes,No,Yes
+Moving,Home Setup,Home Setup,Yes,No,No,No,No,Yes,No,Yes
+Personal Support,Domestic Help,Maid Service,Yes,No,No,No,No,Yes,No,Yes
+Personal Support,Cooking,Home Cook,Yes,No,No,No,No,Yes,No,Yes
+Personal Support,Child Care,Babysitting,Yes,No,No,No,No,Yes,No,Yes
+Personal Support,Elder Care,Elderly Assistance,Yes,No,No,No,No,Yes,Yes,Yes
+Pet Care,Pet Care,Pet Sitting,Yes,No,No,No,No,Yes,No,Yes
+Pet Care,Grooming,Pet Grooming,Yes,Yes,No,No,No,Yes,No,Yes
+Personal Support,Laundry,Laundry Service,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Personal Support,Laundry,Ironing Service,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Delivery,Grocery,Grocery Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,Pharmacy,Medicine Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,Food,Food Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,Water,Water Can Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,Gas,Gas Cylinder Delivery,No,No,Yes,Yes,No,No,Yes,Yes
+Delivery,Courier,Courier Service,Yes,No,Yes,Yes,No,No,No,Yes
+Vehicle,Two Wheeler,Bike Repair,No,Yes,Yes,Yes,No,Yes,No,Yes
+Vehicle,Four Wheeler,Car Repair,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Vehicle,Four Wheeler,Car Wash,Yes,Yes,No,No,No,Yes,No,Yes
+Vehicle,Two Wheeler,Bike Wash,Yes,Yes,No,No,No,Yes,No,Yes
+Vehicle,Tyres,Tyre Service,Yes,Yes,No,No,No,No,Yes,Yes
+Vehicle,Battery,Battery Service,Yes,Yes,No,No,No,No,Yes,Yes
+Professional,Interior,Interior Design,Yes,No,No,No,No,Yes,No,Yes
+Professional,Architecture,Architect Service,Yes,No,No,No,No,Yes,No,Yes
+Professional,Legal,Legal Consultation,No,Yes,No,No,Yes,Yes,No,Yes
+Professional,Accounting,Tax Consultation,No,Yes,No,No,Yes,Yes,No,Yes
+Professional,Accounting,GST Service,No,Yes,No,No,Yes,Yes,No,Yes
+Business,Marketing,Digital Marketing,No,Yes,No,No,Yes,Yes,No,Yes
+Technology,Web Development,Website Development,No,Yes,No,No,Yes,Yes,No,Yes
+Creative,Design,Graphic Design,No,Yes,No,No,Yes,Yes,No,Yes
+Creative,Photography,Photography,Yes,No,No,No,No,Yes,No,Yes
+Creative,Video,Video Editing,No,No,No,No,Yes,Yes,No,Yes
+Beauty,Makeup,Makeup Service,Yes,Yes,No,No,No,Yes,No,Yes
+Beauty,Salon,Haircut,Yes,Yes,No,No,No,Yes,No,Yes
+Beauty,Mehendi,Mehendi Service,Yes,No,No,No,No,Yes,No,Yes
+Fitness,Yoga,Yoga Trainer,Yes,Yes,No,No,No,Yes,No,Yes
+Fitness,Fitness,Personal Trainer,Yes,Yes,No,No,No,Yes,No,Yes
+Education,Dance,Dance Classes,Yes,Yes,No,No,No,Yes,No,Yes
+Education,Academic,Tuition,Yes,No,No,No,No,Yes,No,Yes
+Education,Language,Spoken English,Yes,Yes,No,No,No,Yes,No,Yes
+Education,Computer,Computer Training,Yes,Yes,No,No,No,Yes,No,Yes
+Education,Driving,Driving Classes,Yes,No,No,No,No,Yes,No,Yes
+Events,Decoration,Event Decoration,Yes,No,No,No,No,Yes,No,Yes
+Food,Catering,Catering,Yes,No,No,No,No,Yes,No,Yes
+Food,Bakery,Cake Order,No,Yes,Yes,Yes,No,Yes,No,Yes
+Fashion,Tailoring,Tailoring,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Fashion,Tailoring,Alteration,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Cleaning,Laundry,Dry Cleaning,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Personal,Footwear,Shoe Repair,No,Yes,No,No,No,No,No,Yes
+Security,Locksmith,Key Duplication,No,Yes,No,No,No,No,No,Yes
+Business,Printing,Xerox & Printing,No,Yes,No,No,No,No,No,Yes
+Professional,Documentation,Document Assistance,No,Yes,No,No,No,Yes,No,Yes
+Electrical,Fan Repair,Electrician,Yes,No,No,No,No,No,Yes,Yes
+Plumbing,Pipe Leakage Repair,Plumber,Yes,No,No,No,No,No,Yes,Yes
+Furniture,Door Repair,Carpenter,Yes,No,No,No,No,Yes,No,Yes
+Painting,Wall Painting,Painter,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Full House Cleaning,Home Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Sofa Deep Cleaning,Sofa Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning,Carpet Cleaning,Carpet Cleaning,Yes,No,Yes,Yes,No,Yes,No,Yes
+Cleaning,Tank Cleaning,Water Tank Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Pest Control,Cockroach Control,Pest Control,Yes,No,No,No,No,Yes,No,Yes
+Appliance,AC General Service,AC Service,Yes,No,No,No,No,Yes,Yes,Yes
+Appliance,Cooling Repair,Refrigerator Repair,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Appliance,Motor Repair,Washing Machine Repair,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Electronics,Display Repair,TV Repair,No,Yes,Yes,Yes,No,Yes,No,Yes
+Appliance,Heating Repair,Microwave Repair,No,Yes,Yes,Yes,No,Yes,No,Yes
+Appliance,Geyser Repair,Geyser Service,Yes,No,No,No,No,Yes,Yes,Yes
+Water Purifier,Filter Replacement,RO Service,Yes,No,No,No,No,Yes,No,Yes
+Mobile,Screen Replacement,Mobile Repair,No,Yes,Yes,Yes,No,No,No,Yes
+Computer,Screen Replacement,Laptop Repair,No,Yes,Yes,Yes,No,Yes,No,Yes
+Computer,Hardware Repair,Computer Repair,Yes,Yes,No,No,No,Yes,No,Yes
+Computer,Printer Repair,Printer Service,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Security,Camera Installation,CCTV Service,Yes,No,No,No,No,Yes,Yes,Yes
+Electrical,Inverter Repair,Inverter Service,Yes,No,No,No,No,Yes,Yes,Yes
+Solar,Solar Panel Cleaning,Solar Service,Yes,No,No,No,No,Yes,No,Yes
+Electrical,Generator Repair,Generator Service,Yes,No,No,No,No,Yes,Yes,Yes
+Automobile,General Bike Service,Bike Service,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Automobile,General Car Service,Car Service,No,Yes,No,No,No,Yes,Yes,Yes
+Automobile,Bike Wash,Bike Washing,Yes,Yes,No,No,No,No,No,Yes
+Automobile,Car Wash,Car Washing,Yes,Yes,No,No,No,No,No,Yes
+Automobile,Puncture Repair,Tyre & Puncture,Yes,Yes,No,No,No,No,Yes,Yes
+Automobile,Battery Replacement,Battery Service,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Automobile,Vehicle Towing,Towing Service,Yes,No,No,No,No,No,Yes,Yes
+Home Service,Lock Repair,Locksmith,Yes,No,No,No,No,No,Yes,Yes
+Construction,Glass Replacement,Glass Service,Yes,No,No,No,No,Yes,Yes,Yes
+Construction,Window Installation,Aluminium Work,Yes,No,No,No,No,Yes,No,Yes
+Fabrication,Gate Welding,Welding,Yes,No,No,No,No,Yes,No,Yes
+Design,Home Interior,Interior Design,Yes,Yes,No,No,No,Yes,No,Yes
+Interior,Kitchen Installation,Modular Kitchen,Yes,No,No,No,No,Yes,No,Yes
+Furniture,Sofa Repair,Furniture Repair,Yes,No,Yes,Yes,No,Yes,No,Yes
+Furniture,Bed Assembly,Furniture Assembly,Yes,No,No,No,No,Yes,No,Yes
+Garden,Garden Maintenance,Gardening,Yes,No,No,No,No,Yes,No,Yes
+Garden,Tree Trimming,Tree Cutting,Yes,No,No,No,No,Yes,No,Yes
+Clothing,Clothes Washing,Laundry,No,Yes,Yes,Yes,No,No,No,Yes
+Clothing,Dress Dry Cleaning,Dry Cleaning,No,Yes,Yes,Yes,No,No,No,Yes
+Clothing,Dress Alteration,Tailoring,No,Yes,Yes,Yes,No,Yes,No,Yes
+Clothing,Dress Embroidery,Embroidery,No,Yes,Yes,Yes,No,Yes,No,Yes
+Beauty,Haircut,Salon,No,Yes,No,No,No,No,No,Yes
+Beauty,Facial,Beauty Services,Yes,Yes,No,No,No,Yes,No,Yes
+Beauty,Home Haircut,Home Salon,Yes,No,No,No,No,Yes,No,Yes
+Beauty,Bridal Mehendi,Mehendi,Yes,No,No,No,No,Yes,No,Yes
+Events,Event Photography,Photography,Yes,No,No,No,No,Yes,No,Yes
+Events,Event Videography,Videography,Yes,No,No,No,No,Yes,No,Yes
+Events,Birthday Decoration,Event Decoration,Yes,No,No,No,No,Yes,No,Yes
+Food,Event Catering,Catering,Yes,No,No,No,No,Yes,No,Yes
+Food,Home Food Delivery,Homemade Food,No,Yes,Yes,Yes,No,Yes,No,Yes
+Food,Daily Tiffin,Tiffin Service,No,Yes,Yes,Yes,No,Yes,No,Yes
+Food,Custom Cake,Cake & Bakery,No,Yes,Yes,Yes,No,Yes,No,Yes
+Delivery,Grocery Delivery,Grocery Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,Vegetable Delivery,Vegetable Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,20L Water Can,Water Can Delivery,No,No,Yes,Yes,No,No,No,Yes
+Delivery,Daily Milk Delivery,Milk Delivery,No,No,Yes,Yes,No,No,No,Yes
+Moving,House Shifting,Packers & Movers,Yes,No,Yes,Yes,No,Yes,No,Yes
+Delivery,Parcel Delivery,Courier Service,Yes,Yes,Yes,Yes,No,No,No,Yes
+Transport,Local Taxi,Taxi Service,Yes,No,No,No,No,Yes,Yes,Yes
+Transport,Local Auto,Auto Service,Yes,No,No,No,No,No,Yes,Yes
+Transport,Personal Driver,Driver Service,Yes,No,No,No,No,Yes,No,Yes
+Education,School Tuition,Tuition,Yes,Yes,No,No,No,Yes,No,Yes
+Education,Home Tuition,Home Tutor,Yes,No,No,No,No,Yes,No,Yes
+Education,Basic Computer Class,Computer Classes,No,Yes,No,No,No,Yes,No,Yes
+Education,English Speaking Class,Spoken English,No,Yes,No,No,No,Yes,No,Yes
+Education,Singing Class,Music Classes,No,Yes,No,No,No,Yes,No,Yes
+Education,Dance Training,Dance Classes,No,Yes,No,No,No,Yes,No,Yes
+Fitness,Personal Training,Fitness Trainer,Yes,No,No,No,No,Yes,No,Yes
+Fitness,Yoga Training,Yoga Trainer,Yes,Yes,No,No,No,Yes,No,Yes
+Pet Services,Pet Grooming,Pet Care,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Pet Services,Pet Consultation,Veterinary Service,Yes,Yes,No,No,No,Yes,Yes,Yes
+Care,Child Care,Babysitting,Yes,No,No,No,No,Yes,No,Yes
+Care,Home Elder Care,Elder Care,Yes,No,No,No,No,Yes,Yes,Yes
+Domestic,Home Cooking,Cook Service,Yes,No,No,No,No,Yes,No,Yes
+Domestic,House Maid,Maid Service,Yes,No,No,No,No,Yes,No,Yes
+Security,Home Security Guard,Security Guard,Yes,No,No,No,No,Yes,No,Yes
+Printing,Document Printing,Printing,No,Yes,Yes,Yes,No,No,No,Yes
+Photography,Passport Photo,Photo Studio,No,Yes,No,No,No,No,No,Yes
+Digital,Online Form Service,Computer Centre,No,Yes,No,No,Yes,No,No,Yes
+Telecom,DTH Installation,DTH Service,Yes,No,No,No,No,Yes,No,Yes
+Telecom,Wi-Fi Installation,Internet Service,Yes,No,No,No,No,Yes,Yes,Yes
+IT,Router Setup,Network Service,Yes,No,No,No,No,Yes,No,Yes
+Business,Social Media Marketing,Digital Marketing,Yes,Yes,No,No,Yes,Yes,No,Yes
+Design,Logo Design,Graphic Design,Yes,Yes,No,No,Yes,Yes,No,Yes
+Professional,Legal Consultation,Legal Service,No,Yes,No,No,Yes,Yes,No,Yes
+Professional,GST & Accounting,Accounting,Yes,Yes,No,No,Yes,Yes,No,Yes
+Property,Property Sale,Real Estate,Yes,Yes,No,No,No,Yes,No,Yes
+Property,Building Maintenance,Property Maintenance,Yes,No,No,No,No,Yes,Yes,Yes
+Construction,House Construction,Construction,Yes,No,No,No,No,Yes,No,Yes
+Construction,Brick Work,Mason Service,Yes,No,No,No,No,Yes,No,Yes
+Construction,Roof Repair,Roofing Service,Yes,No,No,No,No,Yes,Yes,Yes
+Construction,Terrace Waterproofing,Waterproofing,Yes,No,No,No,No,Yes,No,Yes
+Safety,Fire Extinguisher Service,Fire Safety Service,Yes,No,No,No,No,Yes,Yes,Yes
+Events,Wedding Management,Event Management,Yes,Yes,No,No,No,Yes,No,Yes
+Gifts,Flower Bouquet Delivery,Gift & Flower Service,No,Yes,Yes,Yes,No,Yes,No,Yes
+Repair,Sole & Stitch Repair,Shoe Repair,No,Yes,Yes,Yes,No,No,No,Yes
+Electronics,Mobile,Mobile Repair,Yes,Yes,No,No,No,Yes,Yes,Yes
+Electronics,Computer,Laptop Repair,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Electronics,Computer,Computer Repair,Yes,Yes,No,No,No,Yes,Yes,Yes
+Electronics,Office Equipment,Printer Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Home,Appliance,AC Service,Yes,No,No,No,No,Yes,Yes,Yes
+Home,Appliance,Refrigerator Repair,Yes,Yes,No,No,No,Yes,Yes,Yes
+Home,Appliance,Washing Machine Repair,Yes,Yes,No,No,No,Yes,Yes,Yes
+Home,Water,Water Purifier Service,Yes,Yes,No,No,No,Yes,Yes,Yes
+Electronics,Power Backup,Inverter Service,Yes,Yes,No,No,No,Yes,Yes,Yes
+Home,Maintenance,Plumbing,Yes,No,No,No,No,Yes,Yes,Yes
+Home,Maintenance,Electrical Service,Yes,No,No,No,No,Yes,Yes,Yes
+Home,Maintenance,Carpenter,Yes,No,No,No,No,Yes,No,Yes
+Home,Construction,Painting,Yes,No,No,No,No,Yes,No,Yes
+Home,Construction,Mason Service,Yes,No,No,No,No,Yes,No,Yes
+Home,Construction,Tile Repair,Yes,No,No,No,No,Yes,No,Yes
+Home,Construction,Waterproofing,Yes,No,No,No,No,Yes,No,Yes
+Home,Cleaning,Home Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Home,Cleaning,Bathroom Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Home,Cleaning,Sofa Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Home,Cleaning,Pest Control,Yes,No,No,No,No,Yes,Optional,Yes
+Home,Cleaning,Water Tank Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Home,Security,Locksmith,Yes,No,No,No,No,No,Yes,Yes
+Security,Electronics,CCTV Installation,Yes,Yes,No,No,No,Yes,No,Yes
+Energy,Solar,Solar Service,Yes,Yes,No,No,No,Yes,Optional,Yes
+Vehicle,Maintenance,Car Service,Yes,Yes,No,No,No,Yes,Yes,Yes
+Vehicle,Maintenance,Bike Service,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Vehicle,Cleaning,Car Washing,Yes,Yes,No,No,No,Yes,No,Yes
+Vehicle,Cleaning,Bike Washing,Yes,Yes,No,No,No,Yes,No,Yes
+Vehicle,Cleaning,Car Detailing,Yes,Yes,No,Yes,No,Yes,No,Yes
+Vehicle,Tyre,Tyre Service,Yes,Yes,No,No,No,Yes,Yes,Yes
+Vehicle,Battery,Battery Replacement,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Vehicle,Emergency,Vehicle Towing,Yes,No,No,No,No,No,Yes,Yes
+Vehicle,Inspection,Vehicle Inspection,Yes,Yes,No,No,No,Yes,No,Yes
+Personal,Grooming,Barber,Yes,Yes,No,No,No,Yes,No,Yes
+Personal,Beauty,Beauty / Salon,Yes,Yes,No,No,No,Yes,No,Yes
+Personal,Wellness,Massage Service,Yes,Yes,No,No,No,Yes,No,Yes
+Personal,Clothing,Tailoring,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Personal,Clothing,Laundry,No,Yes,No,No,No,Yes,No,Yes
+Personal,Cleaning,Shoe Cleaning,No,Yes,No,No,No,Yes,No,Yes
+Education,Tutoring,Home Tutor,Yes,Yes,No,No,No,Yes,No,Yes
+Fitness,Training,Fitness Trainer,Yes,Yes,No,No,No,Yes,No,Yes
+Fitness,Training,Yoga Trainer,Yes,Yes,No,No,No,Yes,No,Yes
+Pet,Grooming,Pet Grooming,Yes,Yes,No,No,No,Yes,No,Yes
+Pet,Care,Pet Care,Yes,Yes,Yes,No,No,Yes,Optional,Yes
+Outdoor,Garden,Gardening,Yes,No,No,No,No,Yes,No,Yes
+Home,Relocation,Moving Service,Yes,No,No,No,No,Yes,No,Yes
+Delivery,Pickup / Drop,Local Delivery,Yes,Yes,No,No,No,Optional,Yes,Yes
+Events,Photography,Photography,Yes,Yes,No,No,No,Yes,No,Yes
+Convenience,Personal Assistance,Errand Service,Yes,No,No,No,No,Optional,Optional,Yes
+Electrical Services,Wiring,House Wiring,Yes,No,No,No,No,Yes,Yes,Yes
+Electrical Services,Wiring,Rewiring,Yes,No,No,No,No,Yes,Yes,Yes
+Electrical Services,Repair,Switch Repair,Yes,No,No,No,No,No,Yes,Yes
+Electrical Services,Repair,Fan Repair,Yes,No,No,No,No,No,Yes,Yes
+Electrical Services,Installation,Fan Installation,Yes,No,No,No,No,Yes,No,Yes
+Plumbing Services,Repair,Tap Repair,Yes,No,No,No,No,No,Yes,Yes
+Plumbing Services,Repair,Pipe Leakage Repair,Yes,No,No,No,No,Yes,Yes,Yes
+Plumbing Services,Installation,Wash Basin Installation,Yes,No,No,No,No,Yes,No,Yes
+AC Services,Repair,AC Repair,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+AC Services,Maintenance,AC Service,Yes,No,Yes,Yes,No,Yes,No,Yes
+AC Services,Installation,AC Installation,Yes,No,No,No,No,Yes,No,Yes
+Washing Machine,Repair,Washing Machine Repair,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Refrigerator,Repair,Refrigerator Repair,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Mobile Services,Repair,Mobile Screen Replacement,No,Yes,Yes,Yes,No,Yes,No,Yes
+Mobile Services,Repair,Battery Replacement,No,Yes,Yes,Yes,No,Yes,No,Yes
+Computer Services,Repair,Laptop Repair,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Computer Services,Installation,Software Installation,Yes,Yes,No,No,No,Yes,No,Yes
+Car Services,Maintenance,Car General Service,No,Yes,Yes,Yes,No,Yes,No,Yes
+Car Services,Repair,Car Battery Replacement,Yes,No,Yes,Yes,No,No,Yes,Yes
+Bike Services,Maintenance,Bike General Service,No,Yes,Yes,Yes,No,Yes,No,Yes
+Bike Services,Repair,Puncture Repair,Yes,No,No,No,No,No,Yes,Yes
+Cleaning Services,Home Cleaning,Full Home Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Cleaning Services,Appliance Cleaning,Sofa Cleaning,Yes,No,No,No,No,Yes,No,Yes
+Pest Control,Residential,General Pest Control,Yes,No,No,No,No,Yes,No,Yes
+Painting Services,Interior,Room Painting,Yes,No,No,No,No,Yes,No,Yes
+RO Services,Repair,RO Repair,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+RO Services,Maintenance,RO Service,Yes,No,Yes,Yes,No,Yes,No,Yes
+Carpenter Services,Furniture,Furniture Repair,Yes,No,No,No,No,Yes,No,Yes
+Carpenter Services,Installation,Furniture Installation,Yes,No,No,No,No,Yes,No,Yes
+Locksmith Services,Lock Repair,Door Lock Repair,Yes,No,No,No,No,No,Yes,Yes
+Locksmith Services,Emergency,Emergency Lock Opening,Yes,No,No,No,No,No,Yes,Yes
+Home Repair & Maintenance,Electrical Services,Electrician,Yes,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Plumbing Services,Plumber,Yes,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Carpentry & Woodwork,Carpenter,Yes,No,No,Yes,No,Yes,No,Yes
+Home Repair & Maintenance,Masonry & Construction,Mason,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Painting Services,Painter,Yes,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Metal & Fabrication,Welder,Yes,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Roofing Services,Roofer,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Ceiling Services,False Ceiling,No,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Flooring & Tiling,Flooring,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Flooring & Tiling,Tiling,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Waterproofing Services,Waterproofing,Yes,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Flooring & Tiling,Grouting,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Glass & Aluminium,Glass Work,No,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Glass & Aluminium,Aluminium Work,No,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Glass & Aluminium,UPVC Work,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Kitchen & Bathroom,Modular Kitchen,Yes,No,No,Yes,No,No,No,Yes
+Home Repair & Maintenance,Kitchen & Bathroom,Bathroom Renovation,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Renovation Services,Home Renovation,No,No,Yes,Yes,No,No,No,Yes
+Home Repair & Maintenance,Renovation Services,Interior Design,Yes,No,No,No,No,No,No,Yes
+Home Repair & Maintenance,Inspection Services,Home Inspection,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Home Cleaning,Home Cleaning,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Home Cleaning,Deep Cleaning,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Room & Surface Cleaning,Bathroom Cleaning,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Room & Surface Cleaning,Kitchen Cleaning,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Furniture & Fabric Cleaning,Sofa Cleaning,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Furniture & Fabric Cleaning,Carpet Cleaning,Yes,No,Yes,Yes,No,Yes,No,Yes
+Cleaning Services,Furniture & Fabric Cleaning,Mattress Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Room & Surface Cleaning,Floor Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Room & Surface Cleaning,Window Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Specialized Cleaning,Water Tank Cleaning,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Specialized Cleaning,Swimming Pool Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Commercial Cleaning,Office Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Commercial Cleaning,Commercial Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Commercial Cleaning,Post-Construction Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Home Cleaning,Move-In Cleaning,Yes,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Home Cleaning,Move-Out Cleaning,Yes,No,Yes,Yes,No,No,No,Yes
+Cleaning Services,Pest & Sanitization,Pest Control,Yes,No,No,Yes,No,No,No,Yes
+Cleaning Services,Pest & Sanitization,Sanitization,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Air Conditioner Services,AC Repair,Yes,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Air Conditioner Services,AC Installation,Yes,No,No,Yes,No,No,No,Yes
+Appliance Services,Air Conditioner Services,AC Gas Filling,No,No,No,No,No,No,No,Yes
+Appliance Services,Air Conditioner Services,AC Maintenance,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Refrigerator Services,Refrigerator Repair,Yes,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Washing Machine Services,Washing Machine Repair,Yes,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Kitchen Appliance Services,Dishwasher Repair,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Kitchen Appliance Services,Microwave Repair,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Kitchen Appliance Services,Oven Repair,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Water Heating Services,Water Heater Repair,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,Water Purifier Services,RO Service,Yes,No,No,No,No,No,No,Yes
+Appliance Services,Water Purifier Services,Water Purifier Installation,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,TV & Fan Services,TV Repair,No,No,Yes,Yes,No,No,No,Yes
+Appliance Services,TV & Fan Services,Fan Repair,Yes,No,No,Yes,No,No,No,Yes
+Appliance Services,Kitchen Appliance Services,Chimney Service,No,No,No,No,No,No,No,Yes
+Appliance Services,Water Heating Services,Geyser Service,Yes,No,No,No,No,No,No,Yes
+Automobile Services,Car Repair & Maintenance,Car Repair,No,No,Yes,Yes,No,Yes,No,Yes
+Automobile Services,Bike Repair & Maintenance,Bike Repair,No,No,Yes,Yes,No,No,No,Yes
+Automobile Services,Car Cleaning & Detailing,Car Washing,Yes,No,No,Yes,No,Yes,No,Yes
+Automobile Services,Bike Cleaning & Detailing,Bike Washing,Yes,No,No,Yes,No,No,No,Yes
+Automobile Services,Car Cleaning & Detailing,Car Detailing,Yes,No,Yes,Yes,No,Yes,No,Yes
+Automobile Services,Bike Cleaning & Detailing,Bike Detailing,No,No,Yes,Yes,No,No,No,Yes
+Automobile Services,Car Repair & Maintenance,Car AC Service,No,No,No,No,No,Yes,No,Yes
+Automobile Services,Battery Services,Battery Service,No,No,Yes,Yes,No,No,No,Yes
+Automobile Services,Tyre & Wheel Services,Tyre Service,Yes,No,No,Yes,No,No,No,Yes
+Automobile Services,Tyre & Wheel Services,Puncture Repair,Yes,No,No,Yes,No,No,Yes,Yes
+Automobile Services,Tyre & Wheel Services,Wheel Alignment,No,No,Yes,Yes,No,Yes,No,Yes
+Automobile Services,Towing & Roadside Assistance,Car Towing,No,No,Yes,Yes,No,Yes,Yes,Yes
+Automobile Services,Towing & Roadside Assistance,Bike Towing,No,No,Yes,Yes,No,No,Yes,Yes
+Automobile Services,Vehicle Rental,Car Rental,No,Yes,No,No,No,Yes,No,Yes
+Automobile Services,Vehicle Rental,Bike Rental,No,Yes,No,No,No,Yes,No,Yes
+Automobile Services,Driver Services,Driver Service,Yes,No,No,Yes,No,No,No,Yes
+Automobile Services,Driving Education,Driving School,No,Yes,No,No,No,Yes,No,Yes
+Automobile Services,Car Repair & Maintenance,Car Inspection,No,No,Yes,Yes,No,Yes,No,Yes
+Automobile Services,Vehicle Sales,Used Car Dealer,No,Yes,No,No,No,Yes,No,Yes
+Automobile Services,Vehicle Sales,Used Bike Dealer,No,Yes,No,No,No,No,No,Yes
+Automobile Services,Vehicle Accessories,Car Accessories,No,Yes,No,No,No,Yes,No,Yes
+Automobile Services,Vehicle Accessories,Bike Accessories,No,Yes,No,No,No,No,No,Yes
+Beauty & Personal Care,Salon & Barber Services,Salon,No,Yes,No,No,No,Yes,No,Yes
+Beauty & Personal Care,Salon & Barber Services,Barber,Yes,Yes,No,No,No,Yes,No,Yes
+Beauty & Personal Care,Salon & Barber Services,Beauty Parlour,No,Yes,No,No,No,Yes,No,Yes
+Beauty & Personal Care,Salon & Barber Services,Home Salon,Yes,Yes,No,Yes,No,Yes,No,Yes
+Beauty & Personal Care,Makeup Services,Bridal Makeup,No,No,No,Yes,No,Yes,No,Yes
+Beauty & Personal Care,Makeup Services,Party Makeup,Yes,No,Yes,Yes,No,No,No,Yes
+Beauty & Personal Care,Hair Services,Hair Styling,Yes,No,Yes,Yes,No,No,No,Yes
+Beauty & Personal Care,Hair Services,Hair Coloring,Yes,No,Yes,Yes,No,No,No,Yes
+Beauty & Personal Care,Skin & Face Care,Facial,Yes,No,No,Yes,No,No,No,Yes
+Beauty & Personal Care,Hand & Foot Care,Manicure,Yes,No,No,Yes,No,No,No,Yes
+Beauty & Personal Care,Hand & Foot Care,Pedicure,Yes,No,No,Yes,No,No,No,Yes
+Beauty & Personal Care,Traditional Beauty Services,Mehendi,Yes,No,No,Yes,No,No,No,Yes
+Beauty & Personal Care,Spa & Wellness,Spa,Yes,No,No,Yes,No,Yes,No,Yes
+Beauty & Personal Care,Spa & Wellness,Massage,Yes,No,No,Yes,No,Yes,No,Yes
+Beauty & Personal Care,Hand & Foot Care,Nail Art,Yes,No,No,Yes,No,No,No,Yes
+Beauty & Personal Care,Traditional Beauty Services,Eyebrow Threading,Yes,No,Yes,Yes,No,No,No,Yes
+Beauty & Personal Care,Skin & Face Care,Skincare,Yes,No,No,No,No,Yes,No,Yes
+Beauty & Personal Care,Tattoo Services,Tattoo Artist,Yes,No,No,No,No,No,No,Yes
+Fashion & Tailoring,Tailoring Services,Tailor,No,Yes,No,No,No,Yes,No,Yes
+Fashion & Tailoring,Tailoring Services,Ladies Tailor,Yes,Yes,No,No,No,Yes,No,Yes
+Fashion & Tailoring,Tailoring Services,Gents Tailor,Yes,Yes,No,No,No,Yes,No,Yes
+Fashion & Tailoring,Tailoring Services,Kids Tailor,Yes,Yes,No,No,No,Yes,No,Yes
+Fashion & Tailoring,Boutique & Custom Wear,Boutique,Yes,Yes,No,No,No,Yes,No,Yes
+Fashion & Tailoring,Stitching & Alteration Services,Blouse Stitching,Yes,No,No,No,No,No,No,Yes
+Fashion & Tailoring,Stitching & Alteration Services,Alterations,Yes,No,No,No,No,No,No,Yes
+Fashion & Tailoring,Embroidery Services,Embroidery,No,No,No,No,No,No,No,Yes
+Fashion & Tailoring,Embroidery Services,Aari Work,Yes,No,No,No,No,No,No,Yes
+Fashion & Tailoring,Saree Services,Saree Fall & Pico,Yes,No,No,No,No,No,No,Yes
+Fashion & Tailoring,Boutique & Custom Wear,Designer Wear,Yes,Yes,No,No,No,Yes,No,Yes
+Fashion & Tailoring,Boutique & Custom Wear,Custom Clothing,Yes,Yes,No,No,No,No,No,Yes
+Fashion & Tailoring,Repair Services,Shoe Repair,Yes,Yes,Yes,Yes,No,No,No,Yes
+Fashion & Tailoring,Repair Services,Bag Repair,Yes,Yes,Yes,Yes,No,No,No,Yes
+Fashion & Tailoring,Repair Services,Watch Repair,Yes,Yes,No,Yes,No,No,No,Yes
+Fashion & Tailoring,Repair Services,Jewellery Repair,Yes,Yes,Yes,Yes,No,No,No,Yes
+Food & Catering,Catering Services,Catering,No,No,No,Yes,No,Yes,No,Yes
+Food & Catering,Home Food Services,Home Food,Yes,No,Yes,Yes,No,No,No,Yes
+Food & Catering,Bakery & Cakes,Home Baker,No,No,No,Yes,No,No,No,Yes
+Food & Catering,Home Food Services,Tiffin Service,No,No,Yes,Yes,No,No,No,Yes
+Food & Catering,Home Food Services,Lunch Box Service,Yes,No,Yes,Yes,No,No,No,Yes
+Food & Catering,Home Food Services,Meal Subscription,Yes,No,No,No,No,No,No,Yes
+Food & Catering,Bakery & Cakes,Bakery,No,Yes,No,No,No,No,No,Yes
+Food & Catering,Bakery & Cakes,Cake Designer,No,Yes,No,No,No,Yes,No,Yes
+Food & Catering,Sweets & Snacks,Sweet Shop,No,Yes,No,No,No,No,No,Yes
+Food & Catering,Beverage Services,Juice Shop,No,Yes,No,No,No,No,No,Yes
+Food & Catering,Sweets & Snacks,Snacks,No,Yes,No,No,No,No,No,Yes
+Food & Catering,Catering Services,Biriyani Catering,No,No,Yes,Yes,No,Yes,No,Yes
+Food & Catering,Catering Services,Wedding Catering,No,No,Yes,Yes,No,Yes,No,Yes
+Food & Catering,Catering Services,Corporate Catering,No,No,Yes,Yes,No,Yes,No,Yes
+Food & Catering,Catering Services,Party Catering,No,No,Yes,Yes,No,Yes,No,Yes
+Food & Catering,Food Delivery,Food Delivery,No,No,Yes,Yes,No,No,No,Yes
+Food & Catering,Cloud Kitchen,Cloud Kitchen,No,No,No,Yes,No,No,No,Yes
+Education & Training,School & College Tuition,Home Tutor,Yes,No,No,Yes,No,No,No,Yes
+Education & Training,School & College Tuition,School Tuition,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,School & College Tuition,College Tuition,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,Competitive Exam Coaching,NEET Coaching,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,Competitive Exam Coaching,JEE Coaching,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,Competitive Exam Coaching,UPSC Coaching,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,Competitive Exam Coaching,TNPSC Coaching,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,Competitive Exam Coaching,Banking Coaching,No,Yes,No,No,No,Yes,No,Yes
+Education & Training,Language Training,Spoken English,No,Yes,No,No,No,No,No,Yes
+Education & Training,Language Training,Hindi Classes,No,Yes,No,No,No,No,No,Yes
+Education & Training,Language Training,Language Classes,No,Yes,No,No,No,No,No,Yes
+Education & Training,Computer & Coding Training,Coding Classes,No,No,No,No,Yes,No,No,Yes
+Education & Training,Computer & Coding Training,Computer Classes,No,No,No,No,No,No,No,Yes
+Education & Training,Computer & Coding Training,Programming Training,No,No,No,No,Yes,Yes,No,Yes
+Education & Training,Advanced Technology Training,AI/ML Training,No,No,No,No,Yes,Yes,No,Yes
+Education & Training,Advanced Technology Training,Data Science Training,No,No,No,No,Yes,Yes,No,Yes
+Education & Training,Arts & Activity Classes,Music Classes,No,No,No,No,No,No,No,Yes
+Education & Training,Arts & Activity Classes,Dance Classes,No,No,No,No,No,No,No,Yes
+Education & Training,Arts & Activity Classes,Drawing Classes,No,No,No,No,No,No,No,Yes
+Education & Training,Yoga & Wellness Training,Yoga Classes,No,No,No,No,No,No,No,Yes
+Education & Training,Kids Skill Development,Abacus,No,Yes,No,No,No,No,No,Yes
+Education & Training,Kids Skill Development,Handwriting Classes,No,No,No,No,No,No,No,Yes
+Computer & Digital Services,Computer & Laptop Repair,Computer Repair,Yes,No,No,Yes,No,No,No,Yes
+Computer & Digital Services,Computer & Laptop Repair,Laptop Repair,No,No,Yes,Yes,No,No,No,Yes
+Computer & Digital Services,Mobile & Device Repair,Mobile Repair,No,No,Yes,Yes,No,No,No,Yes
+Computer & Digital Services,Software & OS Services,Software Installation,Yes,No,No,Yes,No,No,No,Yes
+Computer & Digital Services,Software & OS Services,OS Installation,No,No,Yes,Yes,No,No,No,Yes
+Computer & Digital Services,Data Services,Data Recovery,No,No,No,No,No,No,No,Yes
+Computer & Digital Services,Printer Services,Printer Repair,Yes,No,Yes,Yes,No,No,No,Yes
+Computer & Digital Services,CCTV & Surveillance,CCTV Installation,Yes,No,No,Yes,No,No,No,Yes
+Computer & Digital Services,CCTV & Surveillance,CCTV Repair,Yes,No,No,Yes,No,No,No,Yes
+Computer & Digital Services,Network & Internet Services,Wi-Fi Setup,Yes,No,No,Yes,No,No,No,Yes
+Computer & Digital Services,Network & Internet Services,Network Installation,No,No,Yes,Yes,No,No,No,Yes
+Computer & Digital Services,Software Development,Website Development,No,No,No,No,Yes,Yes,No,Yes
+Computer & Digital Services,Software Development,App Development,No,No,No,No,Yes,Yes,No,Yes
+Computer & Digital Services,Software Development,Software Development,No,No,No,No,Yes,Yes,No,Yes
+Computer & Digital Services,Design Services,Graphic Design,No,No,No,No,Yes,No,No,Yes
+Computer & Digital Services,Design Services,UI/UX Design,No,No,No,No,Yes,No,No,Yes
+Computer & Digital Services,Media Editing,Video Editing,No,No,No,No,Yes,No,No,Yes
+Computer & Digital Services,Media Editing,Photo Editing,No,No,No,No,Yes,No,No,Yes
+Computer & Digital Services,Digital Marketing,Digital Marketing,No,No,No,No,Yes,No,No,Yes
+Computer & Digital Services,Digital Marketing,SEO Services,No,No,No,No,Yes,No,No,Yes
+Computer & Digital Services,Digital Marketing,Social Media Management,No,No,No,No,Yes,Yes,No,Yes
+Computer & Digital Services,Content Services,Content Writing,No,No,No,No,Yes,Yes,No,Yes
+Computer & Digital Services,Content Services,Freelance Services,No,No,No,No,Yes,No,No,Yes
+Photography & Creative Services,Photography Services,Photographer,Yes,No,Yes,Yes,No,Yes,No,Yes
+Photography & Creative Services,Photography Services,Wedding Photographer,Yes,No,Yes,Yes,No,Yes,No,Yes
+Photography & Creative Services,Photography Services,Pre-Wedding Photography,No,No,No,No,No,No,No,Yes
+Photography & Creative Services,Photography Services,Event Photography,No,No,No,No,No,Yes,No,Yes
+Photography & Creative Services,Photography Services,Birthday Photography,No,No,No,No,No,No,No,Yes
+Photography & Creative Services,Photography Services,Product Photography,No,No,No,No,No,No,No,Yes
+Photography & Creative Services,Photography Services,Real Estate Photography,No,No,No,No,No,No,No,Yes
+Photography & Creative Services,Videography Services,Videographer,No,No,Yes,Yes,No,Yes,No,Yes
+Photography & Creative Services,Videography Services,Wedding Videography,No,No,No,No,No,No,No,Yes
+Photography & Creative Services,Photography Services,Drone Photography,No,No,No,No,No,No,No,Yes
+Photography & Creative Services,Photography Services,Photo Studio,No,Yes,No,No,No,No,No,Yes
+Photography & Creative Services,Photo Printing & Albums,Photo Printing,No,Yes,No,No,No,No,No,Yes
+Photography & Creative Services,Photo Printing & Albums,Album Design,No,Yes,No,No,No,No,No,Yes
+Photography & Creative Services,Photo & Video Editing,Video Editing,No,No,No,No,Yes,No,No,Yes
+Photography & Creative Services,Creative Design Services,Invitation Design,No,No,No,No,No,No,No,Yes
+Events & Functions,Event Planning,Event Planner,No,No,No,No,No,Yes,No,Yes
+Events & Functions,Event Planning,Wedding Planner,No,No,No,Yes,No,Yes,No,Yes
+Events & Functions,Event Planning,Birthday Planner,No,No,No,No,No,No,No,Yes
+Events & Functions,Event Decoration,Event Decoration,Yes,No,No,Yes,No,Yes,No,Yes
+Events & Functions,Event Decoration,Balloon Decoration,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Event Decoration,Flower Decoration,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Event Decoration,Stage Decoration,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Event Decoration,Wedding Decoration,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Music & Entertainment,DJ,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Music & Entertainment,Live Music,No,No,No,No,No,No,No,Yes
+Events & Functions,Event Equipment,Sound System,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Event Equipment,Lighting,No,No,No,Yes,No,No,No,Yes
+Events & Functions,Event Equipment,Tent Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Events & Functions,Event Equipment,Chair Rental,No,No,No,Yes,No,Yes,No,Yes
+Events & Functions,Event Equipment,Table Rental,No,No,No,Yes,No,Yes,No,Yes
+Events & Functions,Event Catering,Catering,No,No,No,Yes,No,Yes,No,Yes
+Events & Functions,Event Gifts & Invitations,Return Gifts,No,Yes,No,No,No,No,No,Yes
+Events & Functions,Event Gifts & Invitations,Invitation Printing,No,Yes,No,No,No,No,No,Yes
+Events & Functions,Music & Entertainment,Event Host/Anchor,No,No,No,No,No,Yes,No,Yes
+Events & Functions,Music & Entertainment,Magician,No,No,No,No,No,No,No,Yes
+Events & Functions,Music & Entertainment,Clown,No,No,No,No,No,No,No,Yes
+Moving & Transportation,Packers & Movers,Packers & Movers,Yes,No,Yes,No,No,No,No,Yes
+Moving & Transportation,Packers & Movers,Local Shifting,No,No,No,No,No,Yes,No,Yes
+Moving & Transportation,Packers & Movers,Office Shifting,No,No,No,No,No,No,No,Yes
+Moving & Transportation,Packers & Movers,House Shifting,Yes,No,Yes,No,No,No,No,Yes
+Moving & Transportation,Vehicle & Equipment Rental,Mini Truck Rental,No,No,Yes,No,No,Yes,No,Yes
+Moving & Transportation,Vehicle & Equipment Rental,Tempo Rental,No,No,No,No,No,Yes,No,Yes
+Moving & Transportation,Vehicle & Equipment Rental,Lorry Rental,No,No,No,No,No,Yes,No,Yes
+Moving & Transportation,Loading & Heavy Equipment,Crane Service,No,No,No,No,No,No,No,Yes
+Moving & Transportation,Loading & Heavy Equipment,Loading & Unloading,Yes,No,No,Yes,No,No,No,Yes
+Moving & Transportation,Driver Services,Driver Service,Yes,No,No,Yes,No,No,No,Yes
+Moving & Transportation,Courier & Delivery,Courier Service,Yes,Yes,Yes,No,No,No,No,Yes
+Moving & Transportation,Courier & Delivery,Parcel Delivery,No,No,Yes,Yes,No,No,No,Yes
+Moving & Transportation,Courier & Delivery,Bike Delivery,No,No,Yes,Yes,No,No,No,Yes
+Moving & Transportation,Vehicle & Equipment Rental,Car Rental,No,Yes,No,No,No,Yes,No,Yes
+Moving & Transportation,Vehicle & Equipment Rental,Van Rental,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Medical Doctors,General Physician,No,No,No,No,No,No,No,Yes
+Health & Wellness,Medical Doctors,Dentist,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Physiotherapy & Rehabilitation,Physiotherapist,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Nutrition & Diet,Nutritionist,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Nutrition & Diet,Dietitian,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Mental Wellness,Psychologist,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Eye Care,Eye Care,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Medical Doctors,ENT Specialist,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Medical Doctors,Dermatologist,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Nursing & Patient Care,Home Nurse,Yes,No,No,Yes,No,No,No,Yes
+Health & Wellness,Nursing & Patient Care,Elder Care,Yes,No,No,Yes,No,Yes,No,Yes
+Health & Wellness,Nursing & Patient Care,Patient Care,No,No,No,Yes,No,Yes,No,Yes
+Health & Wellness,Diagnostic Services,Lab Testing,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Diagnostic Services,Home Sample Collection,No,No,Yes,Yes,No,No,No,Yes
+Health & Wellness,Pharmacy Services,Pharmacy,No,Yes,No,No,No,No,No,Yes
+Health & Wellness,Veterinary & Animal Care,Veterinary Doctor,No,No,No,No,No,Yes,No,Yes
+Health & Wellness,Veterinary & Animal Care,Pet Care,Yes,No,Yes,No,No,Yes,No,Yes
+Health & Wellness,Emergency Medical Services,Ambulance Service,No,No,Yes,Yes,No,No,Yes,Yes
+Pet Services,Pet Grooming,Pet Grooming,Yes,No,No,Yes,No,No,No,Yes
+Pet Services,Pet Boarding & Sitting,Pet Boarding,No,No,No,No,No,No,No,Yes
+Pet Services,Pet Boarding & Sitting,Pet Sitting,Yes,No,No,Yes,No,No,No,Yes
+Pet Services,Dog Walking & Training,Dog Walking,Yes,No,No,Yes,No,No,No,Yes
+Pet Services,Dog Walking & Training,Pet Training,No,No,Yes,Yes,No,Yes,No,Yes
+Pet Services,Veterinary Services,Veterinary Service,Yes,No,No,No,No,Yes,No,Yes
+Pet Services,Pet Photography,Pet Photography,No,No,No,No,No,No,No,Yes
+Pet Services,Pet Food & Supplies,Pet Food Delivery,No,No,Yes,Yes,No,No,No,Yes
+Pet Services,Aquarium Services,Aquarium Cleaning,No,No,Yes,Yes,No,No,No,Yes
+Pet Services,Aquarium Services,Aquarium Setup,No,No,Yes,Yes,No,No,No,Yes
+Pet Services,Pet Transportation,Pet Transportation,No,No,No,No,No,No,No,Yes
+Business Services,Accounting & Finance,CA,No,No,No,No,No,Yes,No,Yes
+Business Services,Accounting & Finance,Accountant,No,No,No,No,No,Yes,No,Yes
+Business Services,Accounting & Finance,Auditor,No,No,No,No,No,Yes,No,Yes
+Business Services,Tax & GST Services,GST Consultant,No,No,No,No,Yes,Yes,No,Yes
+Business Services,Tax & GST Services,Tax Consultant,No,No,No,No,Yes,Yes,No,Yes
+Business Services,Legal Services,Lawyer,No,No,No,No,No,Yes,No,Yes
+Business Services,Legal Services,Legal Consultant,No,No,No,No,Yes,Yes,No,Yes
+Business Services,Business Consulting,HR Consultant,No,No,No,No,Yes,Yes,No,Yes
+Business Services,Business Consulting,Business Consultant,No,No,No,No,Yes,Yes,No,Yes
+Business Services,Recruitment Services,Recruitment Agency,No,No,No,No,No,Yes,No,Yes
+Business Services,Printing & Document Services,Printing,No,Yes,No,No,No,No,No,Yes
+Business Services,Printing & Document Services,Xerox,No,Yes,No,No,No,No,No,Yes
+Business Services,Printing & Document Services,Lamination,No,Yes,No,No,No,No,No,Yes
+Business Services,Printing & Document Services,Visiting Card Printing,No,Yes,No,No,No,Yes,No,Yes
+Business Services,Printing & Document Services,Banner Printing,No,Yes,No,No,No,No,No,Yes
+Business Services,Signage & Branding,Sign Board,No,Yes,No,No,No,No,No,Yes
+Business Services,Packaging Services,Packaging,No,Yes,No,No,No,No,No,Yes
+Business Services,Courier Services,Courier,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Property Sales & Brokerage,Real Estate Agent,No,Yes,No,No,No,Yes,No,Yes
+Real Estate & Property,Property Sales & Brokerage,Property Dealer,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Rental Properties,Rental Properties,No,No,No,No,No,Yes,No,Yes
+Real Estate & Property,Rental Properties,PG,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Rental Properties,Hostel,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Rental Properties,Apartment Rental,No,Yes,No,No,No,Yes,No,Yes
+Real Estate & Property,Rental Properties,House Rental,No,Yes,No,No,No,Yes,No,Yes
+Real Estate & Property,Property Sales & Brokerage,Land for Sale,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Property Sales & Brokerage,Commercial Property,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Property Management,Property Management,No,No,No,No,No,Yes,No,Yes
+Real Estate & Property,Property Documentation,Property Documentation,No,Yes,No,No,No,Yes,No,Yes
+Real Estate & Property,Inspection & Valuation,Home Inspection,No,No,No,Yes,No,No,No,Yes
+Real Estate & Property,Inspection & Valuation,Valuation Services,No,Yes,No,No,No,No,No,Yes
+Real Estate & Property,Interior & Architecture,Interior Designer,No,No,No,No,No,Yes,No,Yes
+Real Estate & Property,Interior & Architecture,Architects,No,Yes,No,No,No,Yes,No,Yes
+Security Services,Security Personnel,Security Guard,No,No,No,Yes,No,No,No,Yes
+Security Services,CCTV Services,CCTV Installation,Yes,No,No,Yes,No,No,No,Yes
+Security Services,CCTV Services,CCTV Monitoring,No,No,Yes,Yes,No,No,No,Yes
+Security Services,Alarm & Access Control,Alarm Installation,No,No,Yes,Yes,No,No,No,Yes
+Security Services,Alarm & Access Control,Smart Lock Installation,Yes,No,No,Yes,No,No,No,Yes
+Security Services,Locksmith Services,Locksmith,Yes,No,No,Yes,No,No,Yes,Yes
+Security Services,Locksmith Services,Key Duplication,No,No,No,No,No,Yes,No,Yes
+Security Services,Alarm & Access Control,Access Control,No,No,No,No,No,No,No,Yes
+Security Services,Security Personnel,Security Agency,No,No,No,No,No,No,No,Yes
+Security Services,Security Personnel,Event Security,No,No,No,No,No,Yes,No,Yes
+Gardening & Outdoor,Gardening Services,Gardener,Yes,No,Yes,Yes,No,No,No,Yes
+Gardening & Outdoor,Gardening Services,Gardening Service,Yes,No,Yes,Yes,No,No,No,Yes
+Gardening & Outdoor,Landscaping,Landscaping,Yes,No,No,Yes,No,Yes,No,Yes
+Gardening & Outdoor,Gardening Services,Lawn Maintenance,Yes,No,No,Yes,No,No,No,Yes
+Gardening & Outdoor,Terrace & Balcony Gardening,Terrace Garden,Yes,No,No,Yes,No,No,No,Yes
+Gardening & Outdoor,Terrace & Balcony Gardening,Balcony Garden,Yes,No,No,Yes,No,No,No,Yes
+Gardening & Outdoor,Plants & Nursery,Plant Nursery,Yes,No,No,No,No,No,No,Yes
+Gardening & Outdoor,Plants & Nursery,Plant Delivery,Yes,No,Yes,Yes,No,No,No,Yes
+Gardening & Outdoor,Tree Services,Tree Cutting,Yes,No,No,Yes,No,No,No,Yes
+Gardening & Outdoor,Tree Services,Tree Trimming,Yes,No,No,Yes,No,No,No,Yes
+Gardening & Outdoor,Irrigation Services,Irrigation Setup,Yes,No,Yes,Yes,No,No,No,Yes
+Gardening & Outdoor,Gardening Services,Garden Cleaning,Yes,No,Yes,Yes,No,No,No,Yes
+Kids & Family Services,Childcare Services,Babysitter,No,No,Yes,Yes,No,No,No,Yes
+Kids & Family Services,Childcare Services,Nanny,No,No,Yes,Yes,No,No,No,Yes
+Kids & Family Services,Childcare Services,Daycare,No,No,No,No,No,Yes,No,Yes
+Kids & Family Services,Kids Activities,Kids Activity Classes,No,No,No,No,No,No,No,Yes
+Kids & Family Services,Kids Education,Kids Tuition,No,No,Yes,Yes,No,Yes,No,Yes
+Kids & Family Services,Kids Photography,Kids Photography,No,No,No,No,No,No,No,Yes
+Kids & Family Services,Kids Party Services,Birthday Planner,No,No,No,No,No,No,No,Yes
+Kids & Family Services,Kids Party Services,Kids Party Decoration,No,No,Yes,Yes,No,No,No,Yes
+Kids & Family Services,Kids Rentals,Toy Rental,No,No,No,No,No,Yes,No,Yes
+Kids & Family Services,Kids Rentals,Baby Products Rental,No,No,No,No,No,Yes,No,Yes
+Kids & Family Services,Elder Care,Elder Care,Yes,No,No,Yes,No,Yes,No,Yes
+Wedding Services,Bridal & Groom Makeup,Bridal Makeup,No,No,No,Yes,No,Yes,No,Yes
+Wedding Services,Bridal & Groom Makeup,Groom Makeup,Yes,No,Yes,Yes,No,No,No,Yes
+Wedding Services,Wedding Photography,Wedding Photography,No,No,No,No,No,No,No,Yes
+Wedding Services,Wedding Videography,Wedding Videography,No,No,No,No,No,No,No,Yes
+Wedding Services,Mehendi Services,Mehendi,Yes,No,No,Yes,No,No,No,Yes
+Wedding Services,Wedding Jewellery,Bridal Jewellery,No,Yes,No,No,No,No,No,Yes
+Wedding Services,Wedding Dress & Groom Wear,Wedding Dress Rental,No,Yes,No,No,No,Yes,No,Yes
+Wedding Services,Wedding Dress & Groom Wear,Groom Wear Rental,No,Yes,No,No,No,Yes,No,Yes
+Wedding Services,Wedding Decoration,Wedding Decoration,No,No,Yes,Yes,No,No,No,Yes
+Wedding Services,Wedding Catering,Catering,No,No,No,Yes,No,Yes,No,Yes
+Wedding Services,Wedding Planning,Wedding Planner,No,No,Yes,Yes,No,Yes,No,Yes
+Wedding Services,Wedding Invitations,Invitation Cards,No,Yes,No,No,No,Yes,No,Yes
+Wedding Services,Wedding Venue,Wedding Hall,No,Yes,No,No,No,No,No,Yes
+Wedding Services,Wedding Entertainment,DJ,No,No,Yes,Yes,No,No,No,Yes
+Wedding Services,Wedding Entertainment,Music Band,No,No,No,No,No,No,No,Yes
+Wedding Services,Wedding Gifts,Return Gifts,No,Yes,No,No,No,No,No,Yes
+Rental Services,Furniture Rental,Furniture Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Appliance Rental,Appliance Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Camera & Photography Rental,Camera Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Projector & Display Rental,Projector Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Audio & Sound Rental,Speaker Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Audio & Sound Rental,Sound System Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Event Equipment Rental,Tent Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Event Equipment Rental,Chair Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Event Equipment Rental,Table Rental,No,No,Yes,Yes,No,Yes,No,Yes
+Rental Services,Vehicle Rental,Car Rental,No,Yes,No,No,No,Yes,No,Yes
+Rental Services,Vehicle Rental,Bike Rental,No,Yes,No,No,No,Yes,No,Yes
+Rental Services,Costume & Wedding Wear Rental,Costume Rental,No,No,No,No,No,Yes,No,Yes
+Rental Services,Costume & Wedding Wear Rental,Wedding Dress Rental,No,Yes,No,No,No,Yes,No,Yes
+Rental Services,Tools & Equipment Rental,Tools & Equipment Rental,No,No,No,No,No,Yes,No,Yes
+Printing & Stationery,Copy & Document Services,Xerox,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Copy & Document Services,Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Copy & Document Services,Color Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Photo Printing,Photo Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Copy & Document Services,Lamination,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Copy & Document Services,Spiral Binding,No,No,No,No,No,No,No,Yes
+Printing & Stationery,Copy & Document Services,Thesis Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Business Printing,Visiting Cards,No,Yes,No,No,No,Yes,No,Yes
+Printing & Stationery,Wedding Printing,Wedding Invitations,No,No,No,No,No,No,No,Yes
+Printing & Stationery,Business Printing,Brochure Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Banner & Flex Printing,Banner Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Banner & Flex Printing,Flex Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Custom Gift Printing,T-Shirt Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,Custom Gift Printing,Mug Printing,No,Yes,No,No,No,No,No,Yes
+Printing & Stationery,ID & Stamp Services,ID Card Printing,No,Yes,No,No,No,Yes,No,Yes
+Printing & Stationery,ID & Stamp Services,Stamp Making,No,No,No,No,No,No,No,Yes
+Emergency Services,Emergency Electrical Services,Emergency Electrician,Yes,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Emergency Plumbing Services,Emergency Plumber,Yes,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Locksmith Services,Locksmith,Yes,No,No,Yes,No,No,Yes,Yes
+Emergency Services,Roadside Assistance,Roadside Assistance,No,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Roadside Assistance,Towing,No,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Emergency Appliance Services,Emergency AC Repair,Yes,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Emergency Appliance Services,Emergency Appliance Repair,Yes,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Medical Emergency Services,Ambulance,No,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Home Nursing Services,Home Nurse,Yes,No,Yes,Yes,No,No,No,Yes
+Emergency Services,Security Assistance,Security Assistance,No,No,No,No,No,No,No,Yes
+Emergency Services,Emergency Plumbing Services,Water Leakage Repair,Yes,No,Yes,Yes,No,No,Yes,Yes
+Emergency Services,Power Backup Services,Power Backup Service,No,No,Yes,Yes,No,No,Yes,Yes
+Daily Needs,Grocery & Supermarket,Grocery,No,Yes,No,No,No,No,No,Yes
+Daily Needs,Grocery & Supermarket,Supermarket,No,Yes,No,No,No,No,No,Yes
+Daily Needs,Milk & Water Delivery,Milk Delivery,No,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Milk & Water Delivery,Water Can Delivery,No,No,Yes,Yes,No,Yes,No,Yes
+Daily Needs,Gas Delivery,Gas Delivery,No,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Fresh Produce Delivery,Vegetable Delivery,No,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Fresh Produce Delivery,Fruit Delivery,No,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Fresh Produce Delivery,Meat Delivery,No,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Fresh Produce Delivery,Fish Delivery,No,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Pharmacy Delivery,Pharmacy Delivery,No,Yes,Yes,Yes,No,No,No,Yes
+Daily Needs,Laundry Services,Laundry Pickup & Delivery,Yes,No,Yes,Yes,No,No,No,Yes
+Daily Needs,Courier Services,Courier,No,Yes,No,No,No,No,No,Yes
+Daily Needs,Newspaper Delivery,Newspaper Delivery,No,No,Yes,Yes,No,Yes,No,Yes
+Skilled Workers,Electrical Workers,Electrician,Yes,No,No,Yes,No,No,No,Yes
+Skilled Workers,Plumbing Workers,Plumber,Yes,No,No,Yes,No,No,No,Yes
+Skilled Workers,Carpentry Workers,Carpenter,Yes,No,No,Yes,No,Yes,No,Yes
+Skilled Workers,Painting Workers,Painter,Yes,No,No,Yes,No,No,No,Yes
+Skilled Workers,Masonry & Construction Workers,Mason,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,Metal Workers,Welder,Yes,No,No,Yes,No,No,No,Yes
+Skilled Workers,Driving Workers,Driver,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,Cleaning Workers,Cleaner,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,Cooking Workers,Cook,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,Gardening Workers,Gardener,Yes,No,No,Yes,No,No,No,Yes
+Skilled Workers,Security Workers,Security Guard,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,General Helpers,Helper,No,No,No,No,No,No,No,Yes
+Skilled Workers,Masonry & Construction Workers,Construction Worker,No,No,No,No,No,No,No,Yes
+Skilled Workers,AC Technicians,AC Technician,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,Appliance Technicians,Appliance Technician,No,No,No,No,No,No,No,Yes
+Skilled Workers,Automobile Mechanics,Mechanic,No,No,No,Yes,No,No,No,Yes
+Skilled Workers,General Technicians,Technician,No,No,No,No,No,No,No,Yes
