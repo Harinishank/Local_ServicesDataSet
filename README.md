@@ -1,0 +1,1 @@
+A structured dataset of local service providers across different regions, including plumbers, electricians, carpenters, mechanics, cleaning services, salons, healthcare providers, restaurants, and other essential services. Designed for research, data analysis, service discovery, and machine learning applications.
